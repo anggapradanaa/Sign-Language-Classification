@@ -1,9 +1,10 @@
-<h1 align="center">Sign-Language-Classification</h1>
+<h1 align="center">**Sign-Language-Classification**</h1>
 
-# Sign-Language-Classification
-Indonesian Sign Language Classification System using Deep Learning to recognize SIBI hand gestures (A–Y, excluding J and Z).
+<p align="center">
+  Indonesian Sign Language Classification System using Deep Learning to recognize SIBI hand gestures (A–Y, excluding J and Z).
+</p>
 
-### 🎯 Overview
+## 🎯 Overview
 This project utilizes Transfer Learning with the MobileNetV2 architecture to classify 24 letters in the Indonesian Sign Language System (SIBI). It features a user-friendly web interface for real-time prediction.
 
 ### 🛠️ Features
@@ -13,7 +14,7 @@ This project utilizes Transfer Learning with the MobileNetV2 architecture to cla
 ✅ Top-3 predictions with confidence scores
 ✅ Lightweight and fast model based on MobileNetV2
 
-### 📁 Project Structure
+## 📁 Project Structure
 sibi-classifier/
 ├── training.py              # Script training model
 ├── web_interface.py         # Web interface with Gradio
@@ -23,7 +24,7 @@ sibi-classifier/
 │   └── SIBI/               # Dataset SIBI (A-Y folders)
 └── README.md               # Documentation
 
-### 🧠 Model Architecture
+## 🧠 Model Architecture
 **Transfer Learning with MobileNetV2:**
 
 * **Base Model:** MobileNetV2 (pre-trained on ImageNet)
@@ -37,7 +38,7 @@ sibi-classifier/
 * **Lightweight and mobile-friendly**
 * **Fast inference time**
 
-### 🎨 Web Interface
+## 🎨 Web Interface
 **Features**
 
 * **Upload Area:** Drag & drop or click to upload
@@ -54,16 +55,15 @@ sibi-classifier/
 ✅ Follow standard SIBI gestures
 ❌ Avoid blurry or cropped images
 
-### 📊 Dataset
+## 📊 Dataset
 SIBI Letters Supported:
 A B C D E F G H I K L M N O P Q R S T U V W X Y
 **Note:** Letters *J* and *Z* are not included as they involve dynamic movements in SIBI.
 
-###🙏 Acknowledgments
+##🙏 Acknowledgments
 
 TensorFlow team untuk framework
 Gradio team untuk web interface tools
 SIBI community untuk dataset dan guidelines
 
-
-**Built with ❤️ using Deep Learning**
+<h1 align="center">**Built with ❤️ using Deep Learning**</h1>
