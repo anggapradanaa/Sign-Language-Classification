@@ -1,4 +1,4 @@
-<h1 align="center">**Sign-Language-Classification**</h1>
+<h1 align="center"><strong>SIBI (Sistem Isyarat Bahasa Indonesia) Classification</strong></h1>
 
 <p align="center">
   Indonesian Sign Language Classification System using Deep Learning to recognize SIBI hand gestures (A–Y, excluding J and Z).
@@ -66,4 +66,4 @@ TensorFlow team untuk framework
 Gradio team untuk web interface tools
 SIBI community untuk dataset dan guidelines
 
-<h1 align="center">**Built with ❤️ using Deep Learning**</h1>
+<h1 align="center"><strong>Built with ❤️ using Deep Learning</strong></h1>
