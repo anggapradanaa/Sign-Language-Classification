@@ -50,7 +50,7 @@ This project utilizes Transfer Learning with the MobileNetV2 architecture to cla
 
 ## 📊 Dataset
 SIBI Letters Supported:
-A B C D E F G H I K L M N O P Q R S T U V W X Y
+A B C D E F G H I K L M N O P Q R S T U V W X Y.
 **Note:** Letters *J* and *Z* are not included as they involve dynamic movements in SIBI.
 
 ##🙏 Acknowledgments
