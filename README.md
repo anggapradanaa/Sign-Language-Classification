@@ -15,14 +15,7 @@ This project utilizes Transfer Learning with the MobileNetV2 architecture to cla
 ✅ Lightweight and fast model based on MobileNetV2
 
 ## 📁 Project Structure
-sibi-classifier/
-├── training.py              # Script training model
-├── web_interface.py         # Web interface with Gradio
-├── best_sibi_model.keras    # Best Models
-├── requirements.txt         # Dependencies
-├── data/
-│   └── SIBI/               # Dataset SIBI (A-Y folders)
-└── README.md               # Documentation
+<img src = 'https://github.com/anggapradanaa/Sign-Language-Classification/blob/main/Project%20Structure.png'>
 
 ## 🧠 Model Architecture
 **Transfer Learning with MobileNetV2:**
