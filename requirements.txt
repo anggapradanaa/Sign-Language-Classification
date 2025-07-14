@@ -1,0 +1,12 @@
+Flask
+tensorflow
+keras
+numpy
+opencv-python
+Pillow
+Werkzeug
+pandas
+matplotlib
+seaborn
+scikit-learn
+gradio
